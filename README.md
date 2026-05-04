@@ -25,4 +25,7 @@ Bank Marketing Dataset
 - Previous campaign outcome affects prediction
 
 ## 📷 Output
-(Add your tree image here)
+<img width="370" height="105" alt="image" src="https://github.com/user-attachments/assets/4d542ba7-1c6b-4956-ae65-5e9359321f5a" />
+<img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/2d5cbed5-768a-4d5f-ba6f-4751c2d67f82" />
+
+
